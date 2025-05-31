@@ -1,0 +1,27 @@
+body{
+    background: #f2f4f7;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    text-align: center;
+}
+
+.card{
+    border-radius: 20px;
+}
+
+button{
+    width: 22%;
+    height: 60px;
+    font-size: 1.5rem;
+    border-radius: 15px !important;
+}
+
+input[type="text"]{
+    height: 60px;
+    width: 90%;
+    align-self: center;
+    border-radius: 15px;
+    background: #ffffff;
+}
